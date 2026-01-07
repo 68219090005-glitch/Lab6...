@@ -1,4 +1,4 @@
-//SLAB6.1 domotorBA5IC
+//LAB6.1
 
 #define motorR1_pin 2
 #define motorR2_pin 3
